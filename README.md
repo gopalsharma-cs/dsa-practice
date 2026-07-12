@@ -1,8 +1,8 @@
-# DSA Practice — FAANG Interview Prep
+# DSA Practice 
 
-Tracking my journey solving Data Structures & Algorithms problems as part of my FAANG interview preparation.
+Tracking my journey solving Data Structures & Algorithms problems .
 
-## 📊 Progress
+##  Progress
 
 | Topic | Solved |
 |---|---|
@@ -17,19 +17,19 @@ Tracking my journey solving Data Structures & Algorithms problems as part of my 
 | Sorting & Searching | 0 |
 | **Total** | **0** |
 
-## 📁 Structure
+## Structure
 
 Each folder contains solutions organized by topic. Every file includes:
 - Problem name/link
 - Approach explanation
 - Time & space complexity
 
-## 📝 Log
+##  Log
 
 | Date | Problem | Topic | Difficulty | Notes |
 |---|---|---|---|---|
 | | | | | |
 
-## 🎯 Goal
+##  Goal
 
 Consistent daily practice, building pattern recognition for technical interviews.
