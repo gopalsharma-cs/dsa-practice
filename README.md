@@ -6,7 +6,7 @@ Tracking my journey solving Data Structures & Algorithms problems .
 
 | Topic | Solved |
 |---|---|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 0 |
 | Linked Lists | 0 |
 | Stacks & Queues | 0 |
@@ -15,7 +15,7 @@ Tracking my journey solving Data Structures & Algorithms problems .
 | Dynamic Programming | 0 |
 | Recursion & Backtracking | 0 |
 | Sorting & Searching | 0 |
-| **Total** | **1** |
+| **Total** | **2** |
 
 ## Structure
 
@@ -29,6 +29,8 @@ Each folder contains solutions organized by topic. Every file includes:
 | Date | Problem | Topic | Difficulty | Notes |
 |---|---|---|---|---|
 | 2026-09-01 | Majority Element | Array | Easy | HashMap (unordered_map) |
+| 2026-09-01 | Missing and Repeated | Array | Easy | HashMap (unordered_map) |
+
 
 ##  Goal
 
