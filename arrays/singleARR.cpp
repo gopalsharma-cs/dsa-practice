@@ -2,7 +2,7 @@
 
 // You must implement a solution with a linear runtime complexity and use only constant extra space.
 // LINK:https://leetcode.com/problems/single-number/
-// APPROACH:APPROACH: XOR every element in the array together. Since a number XORed with itself cancels to 0, all duplicate pairs cancel out, leaving only the single unique element as the result.
+// APPROACH: XOR every element in the array together. Since a number XORed with itself cancels to 0, all duplicate pairs cancel out, leaving only the single unique element as the result.
 // TIME COMPLEXITY:O(n)
 // SPACE COMPLEXITY:O(1)
 
