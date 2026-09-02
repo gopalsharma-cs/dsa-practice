@@ -11,7 +11,7 @@ using namespace std ;
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        /* MY 1st Approach*/
+        /* MY 1st Approach */
         // unordered_map<int,int> m;
         // for(auto p:nums){
         //     m[p]++;
