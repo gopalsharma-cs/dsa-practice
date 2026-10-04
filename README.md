@@ -6,7 +6,7 @@ Tracking my journey solving Data Structures & Algorithms problems .
 
 | Topic | Solved |
 |---|---|
-| Arrays | 4 |
+| Arrays | 6 |
 | Strings | 0 |
 | Linked Lists | 2 |
 | Stacks & Queues | 0 |
@@ -15,7 +15,7 @@ Tracking my journey solving Data Structures & Algorithms problems .
 | Dynamic Programming | 0 |
 | Recursion & Backtracking | 0 |
 | Sorting & Searching | 0 |
-| **Total** | **6** |
+| **Total** | **8** |
 
 ## Structure
 
@@ -34,6 +34,8 @@ Each folder contains solutions organized by topic. Every file includes:
 |2026-09-01|Single Number|ARRAY|EASY|XOR|
 |2026-10-02|Reverse Linked List|LINKED LIST|EASY|three pointers (prev, curr, next)|
 |2026-10-02|Middle of the Linked List|LINKED LIST|EASY|slow-fast pointers|
+|2026-10-04|Pow(x, n)|MATH / RECURSION|MEDIUM|binary exponentiation (square & halve n)|
+|2026-10-04|Best Time to Buy and Sell Stock|ARRAY|EASY|one pass, track min price & max profit|
 
 
 ##  Goal
