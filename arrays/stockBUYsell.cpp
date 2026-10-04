@@ -26,6 +26,6 @@ public:
 //                 mx = prices[j];
 //             }
 //         }
-//         return mx - mn;
+//         return  mx - mn;
 //     }
 // };
